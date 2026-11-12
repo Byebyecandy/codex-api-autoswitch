@@ -1,0 +1,1 @@
+{"check_interval_seconds":60,"confirmation_failures":2,"request_timeout_seconds":10,"cooldown_seconds":120,"max_failovers_per_incident":1,"codex_dir":null,"ccswitch_dir":null,"ccswitch_executable":"D:\\CC Switch\\cc-switch.exe","health_check":{"endpoint":null}}
